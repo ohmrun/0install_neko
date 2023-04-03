@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://raw.githubusercontent.com/ohmrun/0install_neko/main/Neko.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>Neko</name>
+  <summary>cross platform interpreter</summary>
+  <description>
+Cross platform interpreter, Haxe target</description>
+  <homepage>nekovm.org</homepage>
+  <category>Development</category>
+  <needs-terminal/>
+  <implementation arch="Windows-x86_64" id="sha1new=870dc242f3f036940021f133adfbbddc39c1b98c" main="neko.exe" released="2023-04-03" version="2.3.0">
+    <archive extract="neko-2.3.0-win64" href="https://github.com/HaxeFoundation/neko/releases/download/v2-3-0/neko-2.3.0-win64.zip" size="1754187" type="application/zip"/>
+  </implementation>
+  <implementation arch="MacOSX-x86_64" id="sha1new=50aca13c2e004a6bdc07c1ef7b5abe8248c4e354" main="neko" released="2023-04-03" version="2.3.0">
+    <archive extract="neko-2.3.0-osx64" href="https://github.com/HaxeFoundation/neko/releases/download/v2-3-0/neko-2.3.0-osx64.tar.gz" size="1772745" type="application/x-compressed-tar"/>
+  </implementation>
+  <implementation arch="Linux-x86_64" id="sha1new=fc41f2c607b72efb7e327a64cbdde938bc908969" main="neko" released="2023-04-03" version="2.3.0">
+    <archive extract="neko-2.3.0-linux64" href="https://github.com/HaxeFoundation/neko/releases/download/v2-3-0/neko-2.3.0-linux64.tar.gz" size="3349161" type="application/x-compressed-tar"/>
+  </implementation>
+</interface>
+<!-- Base64 Signature
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQqyBMACgkQJPsSVcwVyI2ZoAv/aJiE
+VT39s2mUuY2pxwTvrUyE/JWD07GE4PfEVcC6xoic6sVblMQ8Bc14kmjULSXm+owae5MAWp0em2BM
+xUUL1wvmwQ1K54xdaw3UaBB3/h2aaq2Eepwbjwl2f7YQvOPkknHCVqbJIfF2AEAV9xD2hxXegYQf
+LgPxAYqqUzXU/xqKLFkvbnBPF+06bHqd6EPbhd8AYrZemkRVY5KDy62B4c5aMBPaURYh50E4Q0D/
+PjbvZI+iIkvUgx0tr/VoMcgAPJp1e241GxMHO8zBox0qVxYvFbbjUWuMfRT5a0st+g0brBa50KNv
+x8an7TzteEqDplPuDi1XP8S/dpouM6GKMfEedNq+/0mf5heRrvwVsqoZYND43uaH3GkoYvARO8ks
+AcugClMZdYnrol8Fvk/g1LAK8/gU/w8uqjnPqKHLZheGVXCH3wLPMpwkFOSp515VjVOg2T1mpPqr
+57E6y8ZJoKn6ieRiL2qLzCtDjgQLiUvzc1VmM6lNbcsOnAgtlv7i
+
+-->
