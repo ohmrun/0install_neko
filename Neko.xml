@@ -8,6 +8,7 @@ Cross platform interpreter, Haxe target</description>
   <homepage>nekovm.org</homepage>
   <category>Development</category>
   <needs-terminal/>
+  <feed-for interface="https://raw.githubusercontent.com/ohmrun/0install_neko/main/interface.xsl"/>
   <implementation arch="Windows-x86_64" id="sha1new=870dc242f3f036940021f133adfbbddc39c1b98c" main="neko.exe" released="2023-04-03" version="2.3.0">
     <archive extract="neko-2.3.0-win64" href="https://github.com/HaxeFoundation/neko/releases/download/v2-3-0/neko-2.3.0-win64.zip" size="1754187" type="application/zip"/>
   </implementation>
@@ -19,13 +20,13 @@ Cross platform interpreter, Haxe target</description>
   </implementation>
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQ1INoACgkQJPsSVcwVyI08swv+NO+z
-l0tZ9T+C3QAD7nHK0Jn6hmH7AFkQS5wB+kGc3+F5pNxdwdKgVvzfh0XWmXTSlYJKCmJuMwnBvEOo
-VUQu7Yyv62R3t+MXPwuw+ZGySdyEelZZX68gJDMODkz81Hkuv1Y2gtdykyo1Y7bDN9dvi6NIArF1
-azVi6P1TJmd12ng7pf5VpnwdKPQ+aRls5z4RCRPH0OP8cbSSzrUIDy535TYoD7zRozQ0V6bc57oP
-re5mbW6RWRMR6eUHlb6duHEYlXyfYj8J0UdAC41h2X/C2pTB6YKKTkS9vPXkDCpQrrasMv/hU30p
-He1RsRuobjZOl0NENu+rzcUaDUyVT21/xdG5rQmtcWYPSYK/zzkeAwbyNtNEqtoYIlDUKy82Oh3l
-Djj/ZoAfA5CTidmn9GJV8hAtHsIeQZnp/a6lVJ7uaO1NuRNlgwbIkz0ND2j/XTXMzVOcF926UTuJ
-Mb4WTyDULWMXSQchT6HlK3rn/HVXUJrDUmrg3LE1/uvQPHJqkKOx
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQ1JoIACgkQJPsSVcwVyI2izgv+O/9X
+lG0vTVfzExnGKu5ZOP0dVNr5tr47nWgGQuBSSdnKaWmM7Z8FH6E1F+TBRe3mBXzR8sjWbyC0RQz8
+us+3ir5E8cBUHUZq2s5cfWsydpHyIRqXkwmbVGcH4NjCQQP1M3MQZlFkal68uadeXBz/3XRc1P6P
+xFD3cIPpij/vWFNL6WEjpsuZweArjeZrWZXY5sfHmBbhx+uy7abD+xWgni2LziSLJWwvyIZai2hn
+BtWrkV2abCGjuMoVdRCM56gu1uVwku0pVz/btPTPfxljq+p1kyNHQfRYQDMYZO7CV8Z5zJ2BSqge
+ak/DEvJTrBS3LgJmXlE642lSX0e98oqVa6Yq2LpZdph7HLA1q/GeTjySB1JvI4/C1yoYQM2sZx+z
+9qYdnreMeSOqhQMz3q0+bcJpZQPeUG1CddS8mL6d4fmzaxVJfUqnIQv1nyn+Vq1MhGNtevy7RUl1
+nEUxmwFe4KET4U7pzUf7w0WKXsIUKHOvFCfKB60LNMXDIJaIm7HG
 
 -->
