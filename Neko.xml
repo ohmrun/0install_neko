@@ -5,7 +5,7 @@
   <summary>cross platform interpreter</summary>
   <description>
 Cross platform interpreter, Haxe target</description>
-  <homepage>nekovm.org</homepage>
+  <homepage>https://nekovm.org</homepage>
   <category>Development</category>
   <needs-terminal/>
   <feed-for interface="https://raw.githubusercontent.com/ohmrun/0install_neko/main/interface.xsl"/>
@@ -20,13 +20,13 @@ Cross platform interpreter, Haxe target</description>
   </implementation>
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQ1JoIACgkQJPsSVcwVyI2izgv+O/9X
-lG0vTVfzExnGKu5ZOP0dVNr5tr47nWgGQuBSSdnKaWmM7Z8FH6E1F+TBRe3mBXzR8sjWbyC0RQz8
-us+3ir5E8cBUHUZq2s5cfWsydpHyIRqXkwmbVGcH4NjCQQP1M3MQZlFkal68uadeXBz/3XRc1P6P
-xFD3cIPpij/vWFNL6WEjpsuZweArjeZrWZXY5sfHmBbhx+uy7abD+xWgni2LziSLJWwvyIZai2hn
-BtWrkV2abCGjuMoVdRCM56gu1uVwku0pVz/btPTPfxljq+p1kyNHQfRYQDMYZO7CV8Z5zJ2BSqge
-ak/DEvJTrBS3LgJmXlE642lSX0e98oqVa6Yq2LpZdph7HLA1q/GeTjySB1JvI4/C1yoYQM2sZx+z
-9qYdnreMeSOqhQMz3q0+bcJpZQPeUG1CddS8mL6d4fmzaxVJfUqnIQv1nyn+Vq1MhGNtevy7RUl1
-nEUxmwFe4KET4U7pzUf7w0WKXsIUKHOvFCfKB60LNMXDIJaIm7HG
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQ1J6oACgkQJPsSVcwVyI1BdgwAgSKT
+7RtK2PxvxXKBKO6UfqPhScrAOCbGWMx8WcFMul88/pkUApIkyrCcoad8USkbb7+GrRJQIz64D8B2
+9nRyy/9M7QAiQ3V7wPL2FyZcd4BKp3twUjOhPPrfia3vAlsgJ9Rb8UA/ikruhTO+IYZt4YByvXK9
+gRGD2dAvq+kCdGrvv1PC2SPvfMHT4SpmaTW8FaniNzqeuYYrneb9Y+knlDdDaO4DIFqPIq3i+xgv
+gVfzlwLsXcI3OzEcPoHrL/bs5JX/iOy8ZFw/2kabHN9MBWNcgMYGjXzGGY5EVKH8mOaYrUItBvJs
+RtUY9QYCFSfW5rcRxnNtnhgKL8lOBGtHnHooG30ccxy4L+HiLnNqZo/O51IYzO+JQnym7kQXCPDC
+BN/VottYkMad2S/qKh3Swta7j/SlOBotMzW5eB+9JVymHAmfrX8VdbAvRWwbec6mH9UAs/eayNOU
+Q8tUeWpqzEzhdS528L6VDv1N4uHbcEo6XHnRet2MVWlByNv+bacc
 
 -->
